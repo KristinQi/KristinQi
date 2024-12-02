@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn and 
 - 📧 Email Me: leiqi1107@gmail.com; lq2243@columbia.edu. 
 - 👩🏻‍💻 Follow me on Linkedin <!-- Replace with your actual GitHub username --> https://www.linkedin.com/in/kristin-qi/
 - 🧩 Follow me on Instagram <!--> https://www.instagram.com/kristin.qiii/
-- 
+  
 Feel free to reach out to me if you'd like to chat or collaborate on projects. I’m always open to new ideas and learning opportunities!
 
 Thanks for visiting my profile! I hope we can create something amazing together! 🎉
