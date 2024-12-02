@@ -1,6 +1,7 @@
-👋 Hi, there
 
-Hi there 👋, I'm Kristin Qi!
+
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Kristin Qi!
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn and build cool things. Whether it's coding, collaborating, or solving problems, I always strive to push myself further. 🚀
 
 <!-- Replace this with the actual link to your image -->
