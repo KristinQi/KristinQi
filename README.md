@@ -38,8 +38,7 @@ Feel free to reach out to me if you'd like to chat or collaborate on projects. I
 
 Thanks for visiting my profile! I hope we can create something amazing together! 🎉
 
-## &#x1f4c8; GitHub Stats
-![Kristin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
 
 
